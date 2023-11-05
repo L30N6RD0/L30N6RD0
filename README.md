@@ -7,7 +7,7 @@ BSc in Computer Science student at VU Amsterdam, The Netherlands with a passion 
 - <b>Geometry Dash</b>
   - Scala-based project implementing a simplified version of the mobile game ‘Geometry Dash’ using the Processing library for the GUI and design.	
   - Tech: Scala, Processing
-  - [Repository](gag)
+  - [Repository](https://github.com/L30N6RD0/GeometryDash)
 - <b>DNS Server</b>
   - Python-based project implementing a DNS Server as described by the official specification RFC_1035 through the use of the socket library
   - Tech: Python, Sockets
