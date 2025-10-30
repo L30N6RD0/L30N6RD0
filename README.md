@@ -14,11 +14,10 @@ BSc in Computer Science student at VU Amsterdam, The Netherlands with a passion 
   - [Repository](gag)
 
 ## Technologies 🛠️
-
-- <b>Programming Languages:</b> Javascript/Typescript, HTML, CSS, Java, C++, C, Scala, x86_64
-- <b>Front-end:</b> ReactJS, Next, React Native
-- <b>Back-end:</b> NodeJS, ExpressJS, Django
-- <b>Databases:</b> MySQL, PostgreSQL
+- <b>Programming Languages:</b> Python, Perl, Java, HTML, CSS, JavaScript, TypeScript, Scala, C++, C#, C, Swift
+- <b>Frameworks and Libraries:</b> Django, ReactJS, React Native, NodeJS, jQuery, ExpressJS
+- <b>Databases and Tools:</b> PostgreSQL, MySQL, Redis, Git, Docker, Kubernetes, AWS, Bitbucket Pipelines
+- <b>Others:</b> Full-stack Development, Mobile Development, Software Design & Testing, JSON, XML
 
 ## Contact 📬
 Connect with me on [LinkedIn](linkedin.com/in/leonardo-servat-15418b273/) or by email at leoservat@icloud.com
